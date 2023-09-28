@@ -12,8 +12,11 @@ Luckily maintained version ported to Java is available so I build it for Windows
 
 
 # ENV
+
 - `MSVC 14.28.29910 x64 Host`
 - `GraalVM graalvm-svm-java17-windows-gluon-22.0.0.3-Final`
 
 # History
+
 - **14-Oct-22** v3.3.3
+- **28-Sep-23** v3.3.3 , including the `awt.dll` and `java.dll`
